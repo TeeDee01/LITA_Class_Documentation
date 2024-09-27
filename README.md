@@ -43,4 +43,7 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
+### Data Visualization
+
+![Bar Cahrt](https://github.com/user-attachments/assets/bfab8ea1-24df-4577-a40a-1e53ceb43f93)
 
