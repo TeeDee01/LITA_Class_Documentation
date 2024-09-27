@@ -2,6 +2,15 @@
 
 ### Project Title: E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -47,3 +56,17 @@ WHERE CONDITION = TRUE
 
 ![Bar Cahrt](https://github.com/user-attachments/assets/bfab8ea1-24df-4577-a40a-1e53ceb43f93)
 
+
+![images](https://github.com/user-attachments/assets/5b56b5af-a344-4f43-8d6b-410f29c97002)
+
+
+![LITA chart](https://github.com/user-attachments/assets/c74755a9-7779-4597-bc54-0d6abb1ecf45)
+
+
+🥇
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
